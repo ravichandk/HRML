@@ -1,0 +1,6 @@
+E:\VS Projects\HRLM\HRLMParser\bin\Debug\HRLMParser.exe.config
+E:\VS Projects\HRLM\HRLMParser\bin\Debug\HRLMParser.exe
+E:\VS Projects\HRLM\HRLMParser\bin\Debug\HRLMParser.pdb
+E:\VS Projects\HRLM\HRLMParser\obj\Debug\HRLMParser.csprojResolveAssemblyReference.cache
+E:\VS Projects\HRLM\HRLMParser\obj\Debug\HRLMParser.exe
+E:\VS Projects\HRLM\HRLMParser\obj\Debug\HRLMParser.pdb
